@@ -1,0 +1,8 @@
+/TesteGUI/nbproject/private/
+/TesteGUI/build/
+*.class
+build/
+nbproject/
+test/
+*.xml
+*.mf
